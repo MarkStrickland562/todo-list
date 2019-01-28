@@ -1,5 +1,5 @@
-#show-contact {
-  display: none;
+#list-items {
+  text-decoration: line-through;
 }
 
 /*#add-work-email {
